@@ -1,7 +1,7 @@
 - 👋 Hey, I’m @OnewayShruti
 - 👀 I’m interested in blockchain technology ,ethereum and building dapps.
 - 🌱 I’m currently learning solidity programming language to build decentalized apps.
-- 💞️ I'm well versed with languages like C,C++,Python.
+- 💞️ I've have known languages like C,C++,Python.
 - 
 
 - 
