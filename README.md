@@ -12,10 +12,6 @@ As a curious learner, I thrive on collaborating, experimenting, and building wit
  🤝  I'm open to collaborating on interesting projects involving Java<br>
  ⚡  Building the future, one line of code at a time!<br>
 
-<a href="https://www.github.com/OnewayShruti" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/OnewayShruti?logo=github&style=for-the-badge&color=14b8a6&labelColor=22272e" /></a><a href="https://www.twitter.com/ShrutiOneway" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ShrutiOneway?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=22272e"
-/></a>
 
 ### Skills
 
